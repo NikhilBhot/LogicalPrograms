@@ -1,0 +1,15 @@
+D:\RFP-260\Logical-Program\LogicalProgram\LogicalProgram\bin\Debug\net6.0\LogicalProgram.exe
+D:\RFP-260\Logical-Program\LogicalProgram\LogicalProgram\bin\Debug\net6.0\LogicalProgram.deps.json
+D:\RFP-260\Logical-Program\LogicalProgram\LogicalProgram\bin\Debug\net6.0\LogicalProgram.runtimeconfig.json
+D:\RFP-260\Logical-Program\LogicalProgram\LogicalProgram\bin\Debug\net6.0\LogicalProgram.dll
+D:\RFP-260\Logical-Program\LogicalProgram\LogicalProgram\bin\Debug\net6.0\LogicalProgram.pdb
+D:\RFP-260\Logical-Program\LogicalProgram\LogicalProgram\obj\Debug\net6.0\LogicalProgram.csproj.AssemblyReference.cache
+D:\RFP-260\Logical-Program\LogicalProgram\LogicalProgram\obj\Debug\net6.0\LogicalProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP-260\Logical-Program\LogicalProgram\LogicalProgram\obj\Debug\net6.0\LogicalProgram.AssemblyInfoInputs.cache
+D:\RFP-260\Logical-Program\LogicalProgram\LogicalProgram\obj\Debug\net6.0\LogicalProgram.AssemblyInfo.cs
+D:\RFP-260\Logical-Program\LogicalProgram\LogicalProgram\obj\Debug\net6.0\LogicalProgram.csproj.CoreCompileInputs.cache
+D:\RFP-260\Logical-Program\LogicalProgram\LogicalProgram\obj\Debug\net6.0\LogicalProgram.dll
+D:\RFP-260\Logical-Program\LogicalProgram\LogicalProgram\obj\Debug\net6.0\refint\LogicalProgram.dll
+D:\RFP-260\Logical-Program\LogicalProgram\LogicalProgram\obj\Debug\net6.0\LogicalProgram.pdb
+D:\RFP-260\Logical-Program\LogicalProgram\LogicalProgram\obj\Debug\net6.0\LogicalProgram.genruntimeconfig.cache
+D:\RFP-260\Logical-Program\LogicalProgram\LogicalProgram\obj\Debug\net6.0\ref\LogicalProgram.dll
